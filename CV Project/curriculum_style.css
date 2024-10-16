@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid black;
+  max-width: auto;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+
+hr {
+  border: none;
+  border-bottom: 4px solid #333;
+}
+h4 {
+  color: green;
+}
+
+.contact,
+.skills,
+.education,
+.experience {
+  margin-bottom: 15px;
+}
+
+.footer-title {
+margin: auto;
+width: 240px;
+}
+
+.links {
+  margin: auto;
+  width: 150px;
+}
